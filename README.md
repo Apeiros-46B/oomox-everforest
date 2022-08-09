@@ -2,5 +2,5 @@
 
 ---
 
-`icons`: icon theme generated with oomox
-`theme`: GTK theme generated with oomox
+- `icons`: icon theme generated with oomox
+- `theme`: GTK theme generated with oomox
