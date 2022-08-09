@@ -392,7 +392,7 @@ button, button.nautilus-circular-button.image-button {
     outline-color: rgba(137, 190, 186, 0.5);
     outline-width: 2px;
     outline-style: solid;
-    outline-offset: 2px;
+    outline-offset: 0px;
     color: #d8caac;
     box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
     button:focus:hover, button.flat:focus:hover {
@@ -953,7 +953,7 @@ headerbar {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #dbcaac;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
       .titlebar:not(headerbar) button:focus:hover, headerbar button:focus:hover {
@@ -1167,7 +1167,7 @@ headerbar {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #d8caac;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
       .titlebar:not(headerbar) button:focus:hover, headerbar button:focus:hover {
@@ -1361,7 +1361,7 @@ toolbar {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #d8caac;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
       toolbar button:focus:hover, toolbar button.flat:focus:hover {
@@ -1565,7 +1565,7 @@ toolbar {
         outline-color: rgba(137, 190, 186, 0.5);
         outline-width: 2px;
         outline-style: solid;
-        outline-offset: 2px;
+        outline-offset: 0px;
         color: #d8caac;
         box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
         toolbar.inline-toolbar button:focus:hover, toolbar.inline-toolbar button.flat:focus:hover {
@@ -1788,7 +1788,7 @@ searchbar,
     outline-color: rgba(137, 190, 186, 0.5);
     outline-width: 2px;
     outline-style: solid;
-    outline-offset: 2px;
+    outline-offset: 0px;
     color: #2b3339;
     box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.32); }
     .suggested-action:focus:hover,
@@ -1943,7 +1943,7 @@ searchbar,
     outline-color: rgba(137, 190, 186, 0.5);
     outline-width: 2px;
     outline-style: solid;
-    outline-offset: 2px;
+    outline-offset: 0px;
     color: #2b3339;
     box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.32); }
     .destructive-action:focus:hover, .destructive-action.flat:focus:hover {
@@ -2158,7 +2158,7 @@ headerbar.selection-mode,
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #2b3339;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.32); }
       headerbar.selection-mode button:focus:hover, headerbar.selection-mode button.flat:focus:hover,
@@ -2600,7 +2600,7 @@ headerbar.selection-mode,
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #2b3339;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.32); }
       headerbar.selection-mode button:focus:hover, headerbar.selection-mode button.flat:focus:hover,
@@ -3099,7 +3099,7 @@ infobar {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #2b3339;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.32); }
       infobar.info button:focus:hover, infobar.info button.flat:focus:hover {
@@ -3234,7 +3234,7 @@ infobar {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #2b3339;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.32); }
       infobar.warning button:focus:hover, infobar.warning button.flat:focus:hover {
@@ -3369,7 +3369,7 @@ infobar {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #2b3339;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.32); }
       infobar.question button:focus:hover, infobar.question button.flat:focus:hover {
@@ -3504,7 +3504,7 @@ infobar {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #2b3339;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.32); }
       infobar.error button:focus:hover, infobar.error button.flat:focus:hover {
@@ -4116,7 +4116,7 @@ popover.background {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #d8caac;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
       popover.background button:focus:hover, popover.background button.flat:focus:hover {
@@ -4358,7 +4358,7 @@ frame.app-notification {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #dbcaac;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
       frame.app-notification button:focus:hover, frame.app-notification button.flat:focus:hover {
@@ -4927,7 +4927,7 @@ button.osd, button.osd.nautilus-circular-button.image-button,
     outline-color: rgba(137, 190, 186, 0.5);
     outline-width: 2px;
     outline-style: solid;
-    outline-offset: 2px;
+    outline-offset: 0px;
     color: #dbcaac;
     box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
     button.osd:focus:hover, button.osd.flat:focus:hover,
@@ -5273,7 +5273,7 @@ progressbar.osd {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #dbcaac;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
       .osd button:focus:hover, .osd button.flat:focus:hover,
@@ -5771,7 +5771,7 @@ progressbar.osd {
         outline-color: rgba(137, 190, 186, 0.5);
         outline-width: 2px;
         outline-style: solid;
-        outline-offset: 2px;
+        outline-offset: 0px;
         color: #dbcaac;
         box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
         .osd spinbutton:not(.vertical) button:focus:hover, .osd spinbutton:not(.vertical) button.flat:focus:hover,
@@ -6099,7 +6099,7 @@ progressbar.osd {
       outline-color: rgba(137, 190, 186, 0.5);
       outline-width: 2px;
       outline-style: solid;
-      outline-offset: 2px;
+      outline-offset: 0px;
       color: #dbcaac;
       box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
       .osd spinbutton.vertical button:first-child:focus:hover, .osd spinbutton.vertical button:first-child.flat:focus:hover,
@@ -8095,7 +8095,7 @@ SheetStyleDialog.unity-force-quit {
     outline-color: rgba(137, 190, 186, 0.5);
     outline-width: 2px;
     outline-style: solid;
-    outline-offset: 2px;
+    outline-offset: 0px;
     color: #d8caac;
     box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.42); }
     #login_window button:focus:hover, #login_window button.flat:focus:hover {
@@ -8278,7 +8278,7 @@ SheetStyleDialog.unity-force-quit {
     outline-color: rgba(137, 190, 186, 0.5);
     outline-width: 2px;
     outline-style: solid;
-    outline-offset: 2px;
+    outline-offset: 0px;
     color: #2b3339;
     box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.32); }
     #shutdown_button button:focus:hover, #shutdown_button button.flat:focus:hover {
@@ -8408,7 +8408,7 @@ SheetStyleDialog.unity-force-quit {
     outline-color: rgba(137, 190, 186, 0.5);
     outline-width: 2px;
     outline-style: solid;
-    outline-offset: 2px;
+    outline-offset: 0px;
     color: #2b3339;
     box-shadow: 0 1px 2px -1px rgba(53, 44, 25, 0.32); }
     #restart_button button:focus:hover, #restart_button button.flat:focus:hover {
